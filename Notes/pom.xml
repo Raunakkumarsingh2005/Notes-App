@@ -110,9 +110,9 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.11.0</version>
 				<configuration>
-					<release>23</release>
+					<release>17</release>
 					<compilerArgs>
-						<arg>--enable-preview</arg>
+<!--						<arg>&#45;&#45;enable-preview</arg>-->
 					</compilerArgs>
 					<fork>true</fork>
 					<annotationProcessorPaths>
